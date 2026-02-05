@@ -1,15 +1,18 @@
+<!-- 🌐 Landscape Image at Top -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4c51318-92d0-468a-9508-4565860435c1" alt="Human-Robot Collaboration" width="100%" />
+</p>
 
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abasalhashmi572@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliZainulAbdin572&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AliZainulAbdin572&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZainulAbdin572&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
