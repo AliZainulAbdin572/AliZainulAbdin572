@@ -1,6 +1,8 @@
 <!-- 🌐 Landscape Image at Top -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4c51318-92d0-468a-9508-4565860435c1" alt="Human-Robot Collaboration" style="width:100%; height:auto;" />
+  <img src="https://github.com/AliZainulAbdin572/AliZainulAbdin572/blob/main/Images/alizain%20ai.png?raw=true" 
+       alt="Human-Robot Collaboration" 
+       style="width:100%; max-width:100%; height:auto; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
 </p>
 
 <!-- ✨ Animated Intro Text -->
@@ -22,7 +24,6 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <!-- Live updating stats via API -->
   <img src="https://github-readme-stats.vercel.app/api?username=AliZainulAbdin572&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=AliZainulAbdin572&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZainulAbdin572&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
