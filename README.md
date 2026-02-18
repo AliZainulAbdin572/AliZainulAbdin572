@@ -1,6 +1,6 @@
 <!-- 🌐 Landscape Image at Top -->
 <p align="center">
-  <img src="https://github.com/AliZainulAbdin572/AliZainulAbdin572/blob/main/Images/alizain%20ai.png?raw=true" 
+  <img src="https://github.com/AliZainulAbdin572/AliZainulAbdin572/blob/main/Images/file_00000000bd207206a753714dc27c9838.png?raw=true" 
        alt="Human-Robot Collaboration" 
        style="width:100%; max-width:100%; height:auto; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
 </p>
