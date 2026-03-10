@@ -41,8 +41,12 @@
 
 ## 📊 Performance & Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliZainulAbdin572&theme=radical&no-frame=false&margin-w=15&column=3" alt="GitHub Trophies" /><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AliZainulAbdin572&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AliZainulAbdin572&show_icons=true&theme=dark&hide_border=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AliZainulAbdin572&theme=dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AliZainulAbdin572&layout=compact&theme=dark&hide_border=false" width="60%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
